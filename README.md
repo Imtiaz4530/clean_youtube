@@ -16,3 +16,20 @@
 - **State Management**: Easy Peasy (based on Redux)
 - **Video Player**: React Player
 - **API**: YouTube Data API
+
+## Installation
+
+1. **Clone the repository:**
+
+   ```bash
+   git clone https://github.com/yourusername/world-clock-app.git
+   cd Track_Zone
+   yarn or npm install
+   yarn dev or npm run dev
+   ```
+
+2. **Visual looks:**
+
+   <img src="./assets/Screenshot1.png" alt="Track Zone App Screenshot1" width="600">
+   <img src="./assets/Screenshot2.png" alt="Track Zone App Screenshot2" width="600">
+   <img src="./assets/Screenshot3.png" alt="Track Zone App Screenshot3" width="600">
